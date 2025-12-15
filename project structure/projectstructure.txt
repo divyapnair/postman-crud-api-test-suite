@@ -1,0 +1,6 @@
+postman-api-testing-sample/
+│── README.md
+│── collection/
+│ └── ReqRes_API_Test_Collection.json
+│── environment/
+│ └── reqres_environment.json

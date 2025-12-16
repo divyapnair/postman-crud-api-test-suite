@@ -7,7 +7,7 @@ It covers CRUD operations and includes validations such as status codes, schemas
 - Postman
 - ReqRes (Public Test API)
 - JSON
-- git & GitHub
+- Git & GitHub
 
 ## 📁 Project Structure
 - collection/ → Postman collection file  

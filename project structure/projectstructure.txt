@@ -1,4 +1,4 @@
-postman-api-testing-sample/
+postman-crud-api-test-suite/
 │── collection/
 │ └── ReqRes_API_Test_Collection.json
 │── environment/
